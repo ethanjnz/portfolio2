@@ -4,9 +4,9 @@ namespace firstWeb.Controllers;
 public class HelloController : Controller
 {
     [HttpGet("")]
-    public string Index()
+    public ViewResult Index()
     {
-        return "This is my Index!";
+        return View("Index");
     }
 
     [HttpGet("projects")]

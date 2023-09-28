@@ -18372,6 +18372,12 @@
     "CSharpLanguageVersion": 1000
   },
   "RootNamespace": "firstWeb",
-  "Documents": [],
+  "Documents": [
+    {
+      "FilePath": "c:\\Users\\ethan\\Desktop\\Coding Dojo\\C-sharp\\C-sharp-assign\\firstWeb\\Views\\Hello\\Index.cshtml",
+      "TargetPath": "Views\\Hello\\Index.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.3"
 }
