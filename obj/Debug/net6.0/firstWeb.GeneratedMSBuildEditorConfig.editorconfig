@@ -15,6 +15,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\firstWeb
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/ethan/Desktop/Coding Dojo/C-sharp/C-sharp-assign/firstWeb/Views/Hello/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9cQ29udGFjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/ethan/Desktop/Coding Dojo/C-sharp/C-sharp-assign/firstWeb/Views/Hello/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ethan/Desktop/Coding Dojo/C-sharp/C-sharp-assign/firstWeb/Views/Hello/Projects.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9cUHJvamVjdHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

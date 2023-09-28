@@ -1,4 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.ViewFeatures;
+
 namespace firstWeb.Controllers;
 
 public class HelloController : Controller
@@ -10,15 +12,15 @@ public class HelloController : Controller
     }
 
     [HttpGet("projects")]
-    public string Projects()
+    public ViewResult Projects()
     {
-        return "These are my projects";
+        return View();
     }
 
     [HttpGet("contact")]
-    public string Contact()
+    public ViewResult Contact()
     {
-        return "This is my Contact";
+        return View();
     }
 
 }

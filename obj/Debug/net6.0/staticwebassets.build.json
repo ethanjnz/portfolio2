@@ -1,11 +1,54 @@
 {
   "Version": 1,
-  "Hash": "vv0b2qxIuPJnlw3yvG9T/its3f/FNxcfsgQFggs601Y=",
+  "Hash": "tSVRS9zvqn57mXtaQV3TDff31vGBsSuZlQGvrhHFEKw=",
   "Source": "firstWeb",
   "BasePath": "_content/firstWeb",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "firstWeb\\wwwroot",
+      "Source": "firstWeb",
+      "ContentRoot": "C:\\Users\\ethan\\Desktop\\Coding Dojo\\C-sharp\\C-sharp-assign\\firstWeb\\wwwroot\\",
+      "BasePath": "_content/firstWeb",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ethan\\Desktop\\Coding Dojo\\C-sharp\\C-sharp-assign\\firstWeb\\wwwroot\\css\\style.css",
+      "SourceId": "firstWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ethan\\Desktop\\Coding Dojo\\C-sharp\\C-sharp-assign\\firstWeb\\wwwroot\\",
+      "BasePath": "_content/firstWeb",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\ethan\\Desktop\\Coding Dojo\\C-sharp\\C-sharp-assign\\firstWeb\\wwwroot\\images\\profile-pic.jpg",
+      "SourceId": "firstWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ethan\\Desktop\\Coding Dojo\\C-sharp\\C-sharp-assign\\firstWeb\\wwwroot\\",
+      "BasePath": "_content/firstWeb",
+      "RelativePath": "images/profile-pic.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\profile-pic.jpg"
+    }
+  ]
 }
